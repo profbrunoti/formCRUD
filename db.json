@@ -1,0 +1,22 @@
+{
+  "pessoas": [
+    {
+      "nome": "Maria Eduarda",
+      "idade": "20",
+      "cpf": "123.456.789-00",
+      "id": 1
+    },
+    {
+      "nome": "Tiago",
+      "idade": "70",
+      "cpf": "999.888.777-66",
+      "id": 5
+    },
+    {
+      "nome": "Senai",
+      "idade": "81",
+      "cpf": "22233344400",
+      "id": 6
+    }
+  ]
+}
